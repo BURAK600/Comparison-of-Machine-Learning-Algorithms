@@ -1,0 +1,1 @@
+# Makine-renimi-Algoritmalar-Kar-la-t-rmas-
