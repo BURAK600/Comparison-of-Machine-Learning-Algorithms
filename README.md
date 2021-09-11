@@ -1,1 +1,1 @@
-# Makine-renimi-Algoritmalar-Kar-la-t-rmas-
+# Comparison of Machine Learning Algorithms
